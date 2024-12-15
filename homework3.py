@@ -1,0 +1,6 @@
+accountname=str(input())
+accountnumber=int(input())
+balance=float(input())
+print(f"Account Name: {accountname}")
+print(f"Account Number: {accountnumber}")
+print(f"Balance: {balance:.2f}")
